@@ -1,1 +1,1 @@
-# oretama.github.io
+# github_pages
